@@ -259,6 +259,7 @@ p {
     margin: 0 auto;
 }
 .qualidade--lista {
+    padding-left: 30px;
     padding-top: 20px;
     overflow: auto; /* CLEAR-FIX*/
 }
