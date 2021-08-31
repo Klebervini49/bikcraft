@@ -53,6 +53,9 @@
 
 /* ESTILOS PARA SMARTPHONE */
 @media only screen and (max-width: 787px) {
+    .qualidade--lista {
+        padding-left: 0;
+    }
     /* CABEÇALHO */
     .header {
         position: relative;
